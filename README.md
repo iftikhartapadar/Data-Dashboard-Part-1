@@ -34,6 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
+https://user-images.githubusercontent.com/38772501/228134502-98fc4b11-978b-4c84-bfcd-1759d3b2529f.mov
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
